@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Yo, I'm Guru Prakash,<br><br>🔭 I'm the guy who can't just pick one thing—I love seeing the whole picture. Seriously, I get obsessed with bridging the gap between a killer design and the robust code that makes it work. Right now, I'm knee-deep in Python, learning frameworks and libraries that power real applications, but my real passion is the frontend. I create the prototypes and rich websites that genuinely hit different because if the vibe isn't right, what's the point?<br><br>🌱 But here's the kicker: I don't stop there. I handle the strategy, too. Building e-commerce platforms is my jam, and I use the Meta Business Suite to make sure the business side is locked down and data-driven. It's about combining that clean code with brand strategy so that everything I touch is built to mog the competition and deliver a Big W.<br><br>⚡Basically, I’m a vibe coder who delivers full-stack solutions with a strategist's mindset. My code is clean, my designs are crisp, and my goal is to make every project impressive. If you need someone who can go from idea to deployment with an eye on the bottom line, let's connect. I promise you'll want to check out these repos.<br>
 
-<!--
-**05-guruprakash/05-guruprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moggermaxx.prxkxsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guru-prakash-490691268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/theycallmerizzler) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guruprakashraya@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=05-guruprakash&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=05-guruprakash&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=05-guruprakash&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=05-guruprakash&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=05-guruprakash&icon=10&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
