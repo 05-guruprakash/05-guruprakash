@@ -1,36 +1,36 @@
-name: Metrics
+name: Animated Metrics
 on:
-  # Schedule updates daily
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing to master/main
-  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      # Step 1: Generate Overview Stats
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: 05-guruprakash
           template: classic
-          base: header, community, repositories, metadata
+          base: header, metadata
+          config_animations: yes # <--- This enables the arrival animation
+          
+          # This plugin adds the "Lines of Code Changed" section from your image
+          plugin_followup: yes
+          plugin_followup_sections: user
+          
           filename: generated/overview.svg
-          config_timezone: Asia/Kolkata
 
-      # Step 2: Generate Language Stats
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: 05-guruprakash
           template: classic
           base: ""
+          config_animations: yes # <--- Animates the language bars
           plugin_languages: yes
           plugin_languages_ignored: html, css
-          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_languages_sections: most-used
           filename: generated/languages.svg
-          config_timezone: Asia/Kolkata
